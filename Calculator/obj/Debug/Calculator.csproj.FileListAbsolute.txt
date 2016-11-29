@@ -1,0 +1,9 @@
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\vanson\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.form_Calcutor.resources
